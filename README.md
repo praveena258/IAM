@@ -1,6 +1,6 @@
 # EX - 6 Implementation Of Identity Management (Amazon IAM) For Your Team
-# Name: Aaron Mariyan A
-# Reg No: 212224040004
+# Name: PRAVEENA D
+# Reg No: 212224040248
 
 ---
 
